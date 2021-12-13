@@ -1,4 +1,4 @@
-# mustache_example  &middot; [![Build Status](https://travis-ci.org/hofiorg/mustache_example.svg?branch=master)](https://travis-ci.org/hofiorg/mustache_example)
+# mustache_example &middot; ![maven workflow](https://github.com/hofiorg/mustache_example/actions/workflows/maven.yml/badge.svg)
 
 Example code as explained in https://github.com/spullara/mustache.java 
 
